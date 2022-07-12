@@ -10,3 +10,4 @@ LeetCode
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./leetcode/python/TwoSum.md)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](./leetcode/python/LongestSubstringWithoutRepeatingCharacters)|Medium|
 |904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Python](./leetcode/python/FruitsIntoBaskets.md)|Medium|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)| [Python](./leetcode/python/MaxConsecutiveOnesIII.md)|Medium|
