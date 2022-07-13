@@ -1,12 +1,5 @@
 # Longest Repeating Character Replacement
 
-Approach: Sliding Window
-Category: String
-Date: 07/11/2022
-Difficulty: 🟡 Medium
-Link: https://leetcode.com/problems/longest-repeating-character-replacement/
-Status: 👏 Solved
-
 ### Problem
 
 You are given a string `s` and an integer `k`. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most `k` times.
