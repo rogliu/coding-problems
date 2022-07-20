@@ -11,6 +11,7 @@ LeetCode
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](./leetcode/python/LongestSubstringWithoutRepeatingCharacters)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Python](./leetcode/python/LongestSubstringwithAtMostKDistinctCharacters.md)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./leetcode/python/LongestRepeatingCharacterReplacement.md)|Medium|
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./leetcode/python/DeleteAndEarn.md)|Medium|
 |904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Python](./leetcode/python/FruitsIntoBaskets.md)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)| [Python](./leetcode/python/MaxConsecutiveOnesIII.md)|Medium|
 
