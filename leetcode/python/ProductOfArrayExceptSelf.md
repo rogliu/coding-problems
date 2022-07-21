@@ -1,13 +1,5 @@
 # Product of Array Except Self
 
-Category: Array
-Date: 07/20/2022
-Difficulty: 🟡 Medium
-Link: https://leetcode.com/problems/product-of-array-except-self/
-Status: 👏 Solved
-Tags: Blind 50, Neetcode 150
-Tips: Calculate numbers to the left and right of an index
-
 ### Problem
 
 Given an integer array `nums`, return *an array* `answer` *such that* `answer[i]` *is equal to the product of all the elements of* `nums` *except* `nums[i]`.
