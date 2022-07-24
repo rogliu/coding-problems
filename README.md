@@ -7,7 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./leetcode/python/Two-Sum.md)|Easy|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./leetcode/python/TwoSum.md)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./leetcode/python/Longest-Substring-Without-Repeating-Characters.md)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](./leetcode/python/LongestSubstringWithoutRepeatingCharacters.md)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./leetcode/python/Product-of-Array-Except-Self.md)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Python](./leetcode/python/LongestSubstringwithAtMostKDistinctCharacters.md)|Medium|
