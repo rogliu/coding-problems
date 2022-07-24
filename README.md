@@ -15,7 +15,4 @@ LeetCode
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./leetcode/python/DeleteAndEarn.md)|Medium|
 |904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Python](./leetcode/python/FruitsIntoBaskets.md)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)| [Python](./leetcode/python/MaxConsecutiveOnesIII.md)|Medium|
-|2262|[Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)| [Python](leetcode/python/Total-Appeal-of-A-String.md)|Hard|
-
-
-
+|2262|[Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)| [Python](./leetcode/python/Total-Appeal-of-A-String.md)|Hard|
