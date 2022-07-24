@@ -1,12 +1,5 @@
 # Total Appeal of A String
 
-Approach: Dictionary
-Category: String
-Date: 07/22/2022
-Difficulty: 🔴 Hard
-Link: https://leetcode.com/problems/total-appeal-of-a-string/
-Status: ✍️ Studied
-
 ### Problem
 
 The **appeal** of a string is the number of **distinct** characters found in the string.
