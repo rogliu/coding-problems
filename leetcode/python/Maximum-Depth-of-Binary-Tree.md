@@ -73,15 +73,7 @@ Space: O(N) recursive calls stored on the stack. at worst if it’s unbalanced, 
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        """
-        Problem: return the height of binary tree
-        Solution: recursive DFS
-            base case: if root is None: return 0 
-            call DFS on both sides
-            We want the maximum depth, so we can call the function on each side
-            and return the maximum
-            add 1 on top of it to include the current valid node
-        """
+    
         if root is None:
             return 0
         
