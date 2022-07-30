@@ -8,7 +8,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./leetcode/python/Two-Sum.md)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./leetcode/python/Longest-Substring-Without-Repeating-Characters.md)|Medium|
-|100|[Same-Tree](https://leetcode.com/problems/same-tree/)|[Python](./leetcode/python/Same-Tree.md)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./leetcode/python/Same-Tree.md)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./leetcode/python/Maximum-Depth-of-Binary-Tree.md)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](./leetcode/python/Minimum-Size-Subarray-Sum.md)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./leetcode/python/Invert-Binary-Tree.md)|Easy|
