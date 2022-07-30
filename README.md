@@ -15,7 +15,8 @@ LeetCode
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](./leetcode/python/Product-of-Array-Except-Self.md)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Python](./leetcode/python/LongestSubstringwithAtMostKDistinctCharacters.md)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Python](./leetcode/python/LongestRepeatingCharacterReplacement.md)|Medium|
-|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./leetcode/python/DeleteAndEarn.md)|Medium|
-|904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Python](./leetcode/python/FruitsIntoBaskets.md)|Medium|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Python](./leetcode/python/Subtree-of-Another-Tree.md)|Easy|
+|740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Python](./leetcode/python/Delete-and-Earn.md)|Medium|
+|904|[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)| [Python](./leetcode/python/Fruits-Into-Baskets.md)|Medium|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)| [Python](./leetcode/python/MaxConsecutiveOnesIII.md)|Medium|
 |2262|[Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)| [Python](./leetcode/python/Total-Appeal-of-A-String.md)|Hard|
